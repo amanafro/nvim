@@ -15,7 +15,7 @@ vim.keymap.set('n', '<c-l>', ':wincmd l<CR>')
 
 vim.wo.number = true
 
-vim.keymap.set("n", "<leader>e", vim.cmd.Ex, {desc = "Toggle Netrw"})
+vim.keymap.set("n", "<leader>e", vim.cmd.Ex, { desc = "Toggle Netrw" })
 vim.opt.nu = true
 vim.opt.relativenumber = true
 vim.opt.hlsearch = false
