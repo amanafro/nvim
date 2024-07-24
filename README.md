@@ -6,10 +6,9 @@ this neovim config is inspired by many tools and configs. it has all the necesse
 - [autocompletion](https://lsp-zero.netlify.app/v3.x/autocomplete.html)
 - [tresitter](https://github.com/nvim-treesitter/nvim-treesitter)
 - [git intergration](https://github.com/kdheepak/lazygit.nvim)
-- [database ui](https://github.com/kristijanhusak/vim-dadbod-ui)
 - etc.
 
-there are currently 34 plugins and 8 of them aren't loaded by default
+there are currently 29 plugins and 3 of them aren't loaded by default
 
 to download this neovim config use this cmd:
 

@@ -13,13 +13,6 @@ return {
       style = "night",
     },
   },
-  {
-    "thePrimeagen/vim-be-good",
-    cmd = "VimBeGood",
-    config = function()
-      require("VimBeGood").setup {}
-    end,
-  },
   { 'nvim-tree/nvim-web-devicons' },
   { 'bluz71/nvim-linefly' },
   {
@@ -29,14 +22,5 @@ return {
       "mfussenegger/nvim-dap",
       "nvim-neotest/nvim-nio"
     }
-  },
-  {
-    "folke/which-key.nvim",
-    event = "VeryLazy",
-    init = function()
-      vim.o.timeout = true
-      vim.o.timeoutlen = 700
-    end,
-    opts = {},
   },
 }
