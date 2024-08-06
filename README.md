@@ -8,7 +8,7 @@ this neovim config is inspired by many tools and configs. it has all the necesse
 - [git intergration](https://github.com/kdheepak/lazygit.nvim)
 - etc.
 
-there are currently 29 plugins and 3 of them aren't loaded by default
+there are currently 28 plugins and 3 of them aren't loaded by default
 
 to download this neovim config use this cmd:
 
